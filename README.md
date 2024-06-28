@@ -28,12 +28,6 @@ Integración de Swagger en aplicaciones ASP.NET Core para documentar y probar la
 ### System.IdentityModel.Tokens.Jwt
 Funcionalidades para la creación, lectura y validación de tokens JWT en aplicaciones .NET, fundamental para la implementación de autenticación basada en tokens en aplicaciones web y servicios.
 
-## Configuración y Uso
-
-Para utilizar este proyecto, asegúrate de tener instalado el SDK de .NET Core. Puedes clonar este repositorio y abrirlo en tu entorno de desarrollo favorito. Asegúrate de configurar correctamente las conexiones a la base de datos y las claves para la generación de tokens JWT en el archivo de configuración (`appsettings.json`).
-
-A continuación, puedes compilar la solución y ejecutarla. La API estará disponible en la URL base especificada en la configuración. Utiliza herramientas como Postman o la interfaz Swagger generada para probar y explorar las diferentes funcionalidades implementadas.
-
 ## Diagrama de Entidad-Relación (ER) de la Base de Datos
 
 ![image](https://github.com/cpasquali/RedditClone-Backend/assets/163750560/846292a4-547c-40ba-9533-1e88e0a41110)
