@@ -1,0 +1,477 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\services\\commentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\services\\commentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\controllers\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\migrations\\20240616221604_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\migrations\\20240616221604_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\services\\encoderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\services\\encoderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\services\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\services\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\models\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\models\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\models\\comment\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\models\\comment\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\models\\comment\\dto\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\models\\comment\\dto\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\models\\comment\\dto\\commentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\models\\comment\\dto\\commentsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\models\\comment\\dto\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\models\\comment\\dto\\commentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\models\\auth\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\models\\auth\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\models\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\models\\auth\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\services\\roleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\services\\roleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\models\\post\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\models\\post\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\config\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\config\\mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\config\\authoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\config\\authoperationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\services\\postservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\services\\postservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|c:\\users\\bernn\\onedrive\\escritorio\\redditclone-backend-main\\redditclone-backend-main\\tp-final-labo-backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8E1C9A-E16F-49C8-85FD-A0BA99D0DA67}|TP-FINAL-LABO-BACKEND\\TP-FINAL-LABO-BACKEND.csproj|solutionrelative:tp-final-labo-backend\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\User\\User.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Models\\User\\User.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\User\\User.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Models\\User\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA3wBcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:41:23.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommentServices.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Services\\CommentServices.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Services\\CommentServices.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Services\\CommentServices.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Services\\CommentServices.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAD4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:47:03.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Repositories\\CommentRepository.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Repositories\\CommentRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T22:06:43.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Services\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Services\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Services\\AplicationDbContext.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Services\\AplicationDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA2wCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:26:28.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\Auth\\Dto\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Models\\Auth\\Dto\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\Auth\\Dto\\LoginResponseDto.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Models\\Auth\\Dto\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:17:30.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAADgv00AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:46:51.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EncoderService.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Services\\EncoderService.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Services\\EncoderService.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Services\\EncoderService.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Services\\EncoderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:15:42.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Services\\UserServices.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Services\\UserServices.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:38:12.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240616221604_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Migrations\\20240616221604_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Migrations\\20240616221604_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Migrations\\20240616221604_InitialCreate.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Migrations\\20240616221604_InitialCreate.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAKcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T20:15:44.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\Comment\\Comment.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Models\\Comment\\Comment.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\Comment\\Comment.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Models\\Comment\\Comment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T23:18:01.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Controllers\\CommentController.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAArwEUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:45:46.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\Comment\\Dto\\CommentDto.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Models\\Comment\\Dto\\CommentDto.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\Comment\\Dto\\CommentDto.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Models\\Comment\\Dto\\CommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:17:50.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CommentsDto.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\Comment\\Dto\\CommentsDto.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Models\\Comment\\Dto\\CommentsDto.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\Comment\\Dto\\CommentsDto.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Models\\Comment\\Dto\\CommentsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:17:52.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateCommentDto.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\Comment\\Dto\\CreateCommentDto.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Models\\Comment\\Dto\\CreateCommentDto.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\Comment\\Dto\\CreateCommentDto.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Models\\Comment\\Dto\\CreateCommentDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:18:02.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\Auth\\Login.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Models\\Auth\\Login.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\Auth\\Login.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Models\\Auth\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:17:12.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AuthOperationFilter.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Config\\AuthOperationFilter.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Config\\AuthOperationFilter.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Config\\AuthOperationFilter.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Config\\AuthOperationFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:45:11.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\Post\\Post.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Models\\Post\\Post.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Models\\Post\\Post.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Models\\Post\\Post.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA3wBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:40:06.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Repositories\\PostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:44:54.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAcwBwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:45:59.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Program.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Program.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Program.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Program.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAAFsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T21:58:24.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Controllers\\PostController.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Controllers\\PostController.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:45:03.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleServices.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Services\\RoleServices.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Services\\RoleServices.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Services\\RoleServices.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Services\\RoleServices.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T01:11:04.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Config\\Mapping.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Config\\Mapping.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Config\\Mapping.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Config\\Mapping.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:45:12.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Repositories\\Repository.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Repositories\\Repository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA7wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:45:19.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PostServices.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Services\\PostServices.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Services\\PostServices.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Services\\PostServices.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Services\\PostServices.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAjwFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:38:13.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:45:16.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Services\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Services\\AuthServices.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Services\\AuthServices.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:38:09.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "TP-FINAL-LABO-BACKEND\\Repositories\\RoleRepository.cs",
+              "ToolTip": "C:\\Users\\bernn\\OneDrive\\Escritorio\\RedditClone-Backend-main\\RedditClone-Backend-main\\TP-FINAL-LABO-BACKEND\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "TP-FINAL-LABO-BACKEND\\Repositories\\RoleRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T03:45:19.578Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

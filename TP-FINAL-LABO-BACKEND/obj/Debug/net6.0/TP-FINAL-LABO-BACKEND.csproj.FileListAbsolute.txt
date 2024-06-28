@@ -1,0 +1,1142 @@
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.AssemblyReference.cache
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfoInputs.cache
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfo.cs
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.json
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.exe
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.deps.json
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.runtimeconfig.json
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Humanizer.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.TP-FINAL-LABO-BACKEND.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.build.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\scopedcss\bundle\TP-FINAL-LABO-BACKEND.styles.css
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL.D8B0B820.Up2Date
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\refint\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.genruntimeconfig.cache
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\ref\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.json
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.exe
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.deps.json
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.runtimeconfig.json
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfoInputs.cache
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfo.cs
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.TP-FINAL-LABO-BACKEND.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.build.TP-FINAL-LABO-BACKEND.props
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP-FINAL-LABO-BACKEND.props
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP-FINAL-LABO-BACKEND.props
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\scopedcss\bundle\TP-FINAL-LABO-BACKEND.styles.css
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CopyComplete
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\refint\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.genruntimeconfig.cache
+C:\Users\Franco\Desktop\tp-final-labo-4\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\ref\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.json
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.exe
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.deps.json
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.runtimeconfig.json
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Humanizer.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.AssemblyReference.cache
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfoInputs.cache
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfo.cs
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.TP-FINAL-LABO-BACKEND.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.build.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\scopedcss\bundle\TP-FINAL-LABO-BACKEND.styles.css
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL.D8B0B820.Up2Date
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\refint\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.genruntimeconfig.cache
+C:\Users\conip\OneDrive\Escritorio\TP-FINAL-LABO-BACKEND(1)\TP-FINAL-LABO-BACKEND\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\ref\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.exe
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.deps.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.runtimeconfig.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Humanizer.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.AssemblyReference.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfoInputs.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfo.cs
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.sourcelink.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.TP-FINAL-LABO-BACKEND.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.build.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\scopedcss\bundle\TP-FINAL-LABO-BACKEND.styles.css
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL.D8B0B820.Up2Date
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\refint\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.genruntimeconfig.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\ref\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.exe
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.deps.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.runtimeconfig.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Humanizer.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.AssemblyReference.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfoInputs.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfo.cs
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.sourcelink.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.TP-FINAL-LABO-BACKEND.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.build.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\scopedcss\bundle\TP-FINAL-LABO-BACKEND.styles.css
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL.D8B0B820.Up2Date
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\refint\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.genruntimeconfig.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend\RedditClone-Backend\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\ref\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.json
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.exe
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.deps.json
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.runtimeconfig.json
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Humanizer.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.AssemblyReference.cache
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfoInputs.cache
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfo.cs
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.TP-FINAL-LABO-BACKEND.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.build.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\scopedcss\bundle\TP-FINAL-LABO-BACKEND.styles.css
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL.D8B0B820.Up2Date
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\refint\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.genruntimeconfig.cache
+C:\Users\conip\OneDrive\Escritorio\Nueva carpeta (3)\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\ref\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.exe
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.deps.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.runtimeconfig.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Humanizer.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.AssemblyReference.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfoInputs.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfo.cs
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.TP-FINAL-LABO-BACKEND.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.build.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP-FINAL-LABO-BACKEND.props
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\scopedcss\bundle\TP-FINAL-LABO-BACKEND.styles.css
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL.D8B0B820.Up2Date
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\refint\TP-FINAL-LABO-BACKEND.dll
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.genruntimeconfig.cache
+C:\Users\conip\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\ref\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfoInputs.cache
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfo.cs
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\refint\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.json
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.exe
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.deps.json
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.runtimeconfig.json
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.TP-FINAL-LABO-BACKEND.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.build.TP-FINAL-LABO-BACKEND.props
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP-FINAL-LABO-BACKEND.props
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP-FINAL-LABO-BACKEND.props
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\scopedcss\bundle\TP-FINAL-LABO-BACKEND.styles.css
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CopyComplete
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.genruntimeconfig.cache
+C:\Users\Franco\Desktop\tp-final-labo-4\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\ref\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.json
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.exe
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.deps.json
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.runtimeconfig.json
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfoInputs.cache
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfo.cs
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.TP-FINAL-LABO-BACKEND.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.build.TP-FINAL-LABO-BACKEND.props
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP-FINAL-LABO-BACKEND.props
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP-FINAL-LABO-BACKEND.props
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\scopedcss\bundle\TP-FINAL-LABO-BACKEND.styles.css
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CopyComplete
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\refint\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.genruntimeconfig.cache
+C:\Users\Franco\Desktop\Nueva carpeta\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\ref\TP-FINAL-LABO-BACKEND.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.json
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.exe
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.deps.json
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.runtimeconfig.json
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Humanizer.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfo.cs
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.TP-FINAL-LABO-BACKEND.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.build.TP-FINAL-LABO-BACKEND.props
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP-FINAL-LABO-BACKEND.props
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP-FINAL-LABO-BACKEND.props
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\scopedcss\bundle\TP-FINAL-LABO-BACKEND.styles.css
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CopyComplete
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\refint\TP-FINAL-LABO-BACKEND.dll
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.genruntimeconfig.cache
+C:\Users\PC\Desktop\Mochi\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\ref\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.json
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.exe
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.deps.json
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.runtimeconfig.json
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.AssemblyReference.cache
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfoInputs.cache
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfo.cs
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.TP-FINAL-LABO-BACKEND.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.build.TP-FINAL-LABO-BACKEND.props
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP-FINAL-LABO-BACKEND.props
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP-FINAL-LABO-BACKEND.props
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\scopedcss\bundle\TP-FINAL-LABO-BACKEND.styles.css
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CopyComplete
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\refint\TP-FINAL-LABO-BACKEND.dll
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.genruntimeconfig.cache
+C:\Users\Franco\Desktop\tp-labo\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\ref\TP-FINAL-LABO-BACKEND.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\appsettings.json
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.exe
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.deps.json
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.runtimeconfig.json
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\BCrypt.Net-Next.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Humanizer.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.AssemblyReference.cache
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfoInputs.cache
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.AssemblyInfo.cs
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.csproj.CoreCompileInputs.cache
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.TP-FINAL-LABO-BACKEND.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.build.TP-FINAL-LABO-BACKEND.props
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TP-FINAL-LABO-BACKEND.props
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TP-FINAL-LABO-BACKEND.props
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\scopedcss\bundle\TP-FINAL-LABO-BACKEND.styles.css
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL.D8B0B820.Up2Date
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\refint\TP-FINAL-LABO-BACKEND.dll
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.pdb
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\TP-FINAL-LABO-BACKEND.genruntimeconfig.cache
+C:\Users\bernn\OneDrive\Escritorio\RedditClone-Backend-main\RedditClone-Backend-main\TP-FINAL-LABO-BACKEND\obj\Debug\net6.0\ref\TP-FINAL-LABO-BACKEND.dll
